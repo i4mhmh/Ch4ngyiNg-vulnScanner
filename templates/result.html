@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>测试结果</title>
+    <link rel="stylesheet" href="/static/bootstrap/css/bootstrap.min.css">
+    <script src="/static/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/static/bootstrap/js/jquery.min.js"></script>
+
+
+</head>
+<body class="d-flex flex-column h-100">
+
+
+<main>
+<div id="result" class="container">
+    <br>
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">url</th>
+            <th scope="col">payload</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for k, v in final_data.items %}
+
+            <tr>
+                <th scope="row">{{ v.0|linebreaks }}</th>
+                <td>{{ k }}</td>
+                <td>
+                    <div class="container">
+                        <a class="btn" data-bs-toggle="collapse" href="#data{{ forloop.counter0 }}">
+                                点此查看或折叠payload
+                        </a>
+                        <div id="data{{ forloop.counter0 }}" class="collapse" data-bs-parent="#result">
+                        <div class="card-body">
+                            {{ v.1|linebreaks }}
+                        </div>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+</div>
+</main>
+
+<footer class="navbar-fixed-bottom">
+  <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.025);">
+     ChangyiNg
+  </div>
+</footer>
+</body>
+
+</html>

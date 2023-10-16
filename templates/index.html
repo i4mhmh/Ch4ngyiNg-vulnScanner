@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-hans">
+<head>
+    <meta charset="UTF-8">
+    <title>ChangyiNg 漏洞扫描器</title>
+    <link rel="stylesheet" href="/static/bootstrap/css/bootstrap.min.css">
+    <script src="/static/bootstrap/js/bootstrap.min.js"></script>
+</head>
+<body >
+        <br><br><br><br><br>
+         <br><br><br><br><br>
+
+    <div class="d-flex justify-content-center">
+        <form action="" method="post">
+            <div class="col">
+                <div class="input-group">
+                  <input type="text" class="form-control" name="url" placeholder="请输入待检测的URL" aria-label="请输入待检测的URL" aria-describedby="basic-addon2">
+                  <div class="input-group-append">
+                                      {% csrf_token %}
+
+                      <button class="btn btn-outline-primary" type="submit">提交</button>
+
+                  </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
