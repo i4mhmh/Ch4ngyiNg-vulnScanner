@@ -15,7 +15,7 @@
 $ cd Ch4ngyiNg
 
 # 安装依赖
-$ pip3 install -r requirements.txt
+$ pip3 install -r requirements
 
 # 启动服务 默认127.0.0.1:8000
 $ python3 manage.py runserver
@@ -26,11 +26,9 @@ $ python3 manage.py runserver
 
 **访问部署的url**
 
-![image-20231016113126454](../../../blog/source/img/image-20231016113126454.png)
+![image-20231016113126454](image-20231016113126454.png)
 
-
-
-![image-20231016113554183](../../../blog/source/img/image-20231016113554183.png)
+![image-20231016113554183](image-20231016113554183.png)
 
 
 
